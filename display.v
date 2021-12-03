@@ -3,7 +3,7 @@
 /// Display Interface
 ///
 ///
-///	FLAC
+///	Team FLAC
 ///	University of San Diego
 ///	09-Nov-2021
 ///

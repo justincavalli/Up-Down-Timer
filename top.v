@@ -8,7 +8,7 @@
 //	HARDWARE multiplexed 7-segment display 
 //  on the breadboard using C program firmware.c
 //
-//	Chuck Pateros
+//	Team FLAC
 //	University of San Diego
 //	09-Nov-2021
 //

@@ -15,7 +15,7 @@
 //  reg_gpio = ...      //GPIO output to display circuit
 //  var = reg_gpio ...  // input from display circuit GPIO to program
 //
-//	Chuck Pateros
+//	Team FLAC
 //	University of San Diego
 //	26-Jun-2021
 //
